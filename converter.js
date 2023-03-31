@@ -1,8 +1,3 @@
-// module.exports = function() {
-//     return 'Hello!'
-// }
-
-
 module.exports = function convertToNewTemp(usersInput,from_value,to_value){	
 
     // Converts everything to kelvin first
